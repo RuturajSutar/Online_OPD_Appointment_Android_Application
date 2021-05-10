@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "72202243529",
+    "firebase_url": "https://online-opd-appointment.firebaseio.com",
+    "project_id": "online-opd-appointment",
+    "storage_bucket": "online-opd-appointment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72202243529:android:025d7d2c1b6931de852c18",
+        "android_client_info": {
+          "package_name": "com.example.onlineopdappointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72202243529-2aujctqnusco878di63t1o9kea6bde91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineopdappointment",
+            "certificate_hash": "8f4a3f5a79c636dfe8b3ec14d5096b600a1f55ec"
+          }
+        },
+        {
+          "client_id": "72202243529-2rnev7fm2uerf7fcm71ubju0sm5pek09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA19jQbt7k1PbeJYO6cOS5Yzox2kQMvcb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72202243529-2rnev7fm2uerf7fcm71ubju0sm5pek09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
